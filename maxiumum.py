@@ -5,4 +5,5 @@ maxi=-1
 num = [1,4,10,34,14,3]
 for i in num:
     maxi = max(maxi,i)
+print("Found the max number")
 print(maxi)
